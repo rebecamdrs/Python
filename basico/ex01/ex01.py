@@ -19,4 +19,3 @@ print(f'Soma: {soma:.2f}')
 print(f'Subtração: {subtracao:.2f}')
 print(f'Multiplicação: {multiplicacao:.2f}')
 print(f'Divisão: {divisao:.2f}')
-
